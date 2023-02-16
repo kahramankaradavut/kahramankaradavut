@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## I'm a Computer Engineering Student 🚀
+# I'm a Computer Engineering Student 🚀
 
 <br />
 
@@ -18,7 +18,7 @@
 <br />
 
 
-## 🔨🔧 Languages and Tools :
+# 🔨🔧 Languages and Tools :
 
 [<img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 [<img align="left" alt="AndStd" width="68px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" />][AndStd]
@@ -48,7 +48,7 @@
 <br />
 <br />
 
-## 🤝 Contact Me:
+# 🤝 Contact Me:
 [<img align="left" alt="linkedin | LinkedIn" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="50" width="50" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-white-glyph.png" />][instagram]
 [<img align="left" height="50" width="50" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" />][mail]
