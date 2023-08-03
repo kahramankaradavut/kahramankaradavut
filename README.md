@@ -53,7 +53,7 @@
 <br />
 
 # 🤝 Contact Me:
-[<img align="left" alt="linkedin | LinkedIn" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/270/270808.png" />][linkedin]
 [<img align="left" height="50" width="50" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-white-glyph.png" />][instagram]
 [<img align="left" height="50" width="50" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" />][mail]
 
