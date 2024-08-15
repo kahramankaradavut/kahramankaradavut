@@ -4,12 +4,12 @@
 
 <br />
 
-- 🔭 I’m currently working on a large and special application on Flutter.<br />(7/24 Library App)<img alt="Flutter" width="22px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />
+- 🔭 I’m currently working on a large and special project on Python.<img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" /> 
 - 🌱 I’m currently learning Python <img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" /> and Laravel <img alt="Laravel" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/194_Laravel-1024.png" />
 
-- 👯 I’m looking to collaborate with other Flutter developer 👩‍💻 and mobile app designers 🎨
+- 👯 I’m looking to collaborate with other python developer 👩‍💻
 - 🤔 I’m looking for help with Python developer.
-- 🥅 2023 Goals: Finishing the projects I started and learning artificial intelligence 🤖
+- 🥅 2024 Goals: Finishing the projects I started and being the best in Python language 🤖
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟ and cycling 🚴‍♀️
 
 <br />
@@ -57,7 +57,7 @@
 
 # 🤝 Contact Me:
 [<img align="left" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/270/270808.png" />][linkedin]
-[<img align="left" height="50" width="50" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-white-glyph.png" />][instagram]
+[<img align="left" height="50" width="50" src="[https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-white-glyph.png](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/62-instagram-512.png)" />][instagram]
 [<img align="left" height="50" width="50" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" />][mail]
 
 [linkedin]: https://www.linkedin.com/in/kahraman-karadavut-b172361b2/
