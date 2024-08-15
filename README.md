@@ -57,7 +57,7 @@
 
 # 🤝 Contact Me:
 [<img align="left" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/270/270808.png" />][linkedin]
-[<img align="left" height="50" width="50" src="[https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-white-glyph.png](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/62-instagram-512.png)" />][instagram]
+[<img align="left" height="50" width="50" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/62-instagram-512.png" />][instagram]
 [<img align="left" height="50" width="50" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" />][mail]
 
 [linkedin]: https://www.linkedin.com/in/kahraman-karadavut-b172361b2/
