@@ -1,8 +1,10 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 # Computer Engineering Student 🚀
-
 <br />
+<br />
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 - 🔭 I’m currently working on a large and special project on Python.<img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" /> 
 - 🌱 I’m currently learning Python <img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" /> and Laravel <img alt="Laravel" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/194_Laravel-1024.png" />
@@ -50,7 +52,6 @@
 [<img align="left" alt="Laravel" width="60px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/194_Laravel-1024.png" />][laravel]
 
 
-
 <br />
 
 [vsCode]: https://code.visualstudio.com/
@@ -75,6 +76,9 @@
 <br />
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahramankaradavut&layout=compact)
+
+
 # 🤝 Contact Me:
 [<img align="left" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/270/270808.png" />][linkedin]
 [<img align="left" height="50" width="50" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/62-instagram-512.png" />][instagram]
@@ -83,6 +87,16 @@
 [linkedin]: https://www.linkedin.com/in/kahraman-karadavut-b172361b2/
 [instagram]: https://www.instagram.com/kahramankaradavut_/
 [mail]: mailto:kkaradavut.3@gmail.com
+<br />
+<br />
+<br />
+<br />
+
+
+
+
+
+
 
 
 
