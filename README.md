@@ -1,5 +1,5 @@
 
-# Computer Engineering 🚀
+# Software Engineer🚀
 <br />
 <br />
 
