@@ -1,5 +1,5 @@
 
-# Computer Engineering Student 🚀
+# Computer Engineering 🚀
 <br />
 <br />
 
@@ -7,11 +7,7 @@
 
 
 - 🔭 I’m currently working on a large and special project on Python.<img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" /> 
-- 🌱 I’m currently learning Python <img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" /> and Laravel <img alt="Laravel" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/194_Laravel-1024.png" />
-
-- 👯 I’m looking to collaborate with other python developer 👩‍💻
-- 🤔 I’m looking for help with Python developer.
-- 🥅 2024 Goals: Finishing the projects I started and being the best in Python language 🤖
+- ⚡ I’m looking to collaborate with other python developer 👩‍💻
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟ and cycling 🚴‍♀️
 
 <br />
